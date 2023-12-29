@@ -1,4 +1,4 @@
-require('dotenv').config();
+// require('dotenv').config();
 
 const { buildServer } = require('./src/server');
 
